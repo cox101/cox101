@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cox101
-- 👀 I’m web developer and data analyst/scientist.
-- 🌱 I’m currently learning html, css, javascript, python, Sql
+- 👀 I’m a developer and data analyst/scientist.
+- 🌱 I’m currently learning HTML, CSS, javascript, python, SQL, Java, C, VB.Net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
